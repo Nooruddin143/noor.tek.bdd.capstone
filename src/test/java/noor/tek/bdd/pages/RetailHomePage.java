@@ -10,7 +10,13 @@ public class RetailHomePage extends BaseSetup {
 	public RetailHomePage() {
 		PageFactory.initElements(getDriver(), this);
 	}
-	@FindBy(id = "signinBtn")
+
+	@FindBy(xpath = "//a[@class='top-nav__btn']")
 	public WebElement signInButton;
 
+	@FindBy(xpath = "//a[@class='top-nav__logo active']")
+	public WebElement tekSchoolLogo;
+
+	@FindBy(xpath = "//a[@id='accountLink']")
+	public WebElement accountOption;
 }

@@ -1,0 +1,7 @@
+noor/tek/bdd/base/BaseUITest.class
+noor/tek/bdd/pages/RetailSignInPage.class
+noor/tek/bdd/runner/TestRunner.class
+noor/tek/bdd/steps/RetailSteps.class
+noor/tek/bdd/pages/RetailHomePage.class
+noor/tek/bdd/steps/SignInSteps.class
+noor/tek/bdd/pages/POMFactory.class
