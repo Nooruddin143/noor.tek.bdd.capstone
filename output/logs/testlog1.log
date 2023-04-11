@@ -125,3 +125,32 @@
 2023-03-02 11:16:38,172 [main] INFO logger_File - user entered name and phone number
 2023-03-02 11:16:38,340 [main] INFO logger_File - user clicked on update button
 2023-03-02 11:16:39,276 [main] INFO logger_File - user profile information updated
+2023-04-10 17:43:45,725 [main] INFO logger_File - User is on tek retail website
+2023-04-10 17:43:45,727 [main] INFO logger_File - Actual Title React App equals expected title React App
+2023-04-10 17:43:46,065 [main] INFO logger_File - user clicked on sign in option
+2023-04-10 17:43:46,273 [main] INFO logger_File - user entered email nooruddin.mohammadi@gmail.com and password Noorkhan@143
+2023-04-10 17:43:46,521 [main] INFO logger_File - user clicked on log in button
+2023-04-10 17:44:44,164 [main] INFO logger_File - User is on tek retail website
+2023-04-10 17:44:44,167 [main] INFO logger_File - Actual Title React App equals expected title React App
+2023-04-10 17:44:44,466 [main] INFO logger_File - user clicked on sign in option
+2023-04-10 17:44:44,680 [main] INFO logger_File - user entered email nooruddin.mohammadi@gmail.com and password Noor@143
+2023-04-10 17:44:44,928 [main] INFO logger_File - user clicked on log in button
+2023-04-10 17:46:59,739 [main] INFO logger_File - User is on tek retail website
+2023-04-10 17:46:59,741 [main] INFO logger_File - Actual Title React App equals expected title React App
+2023-04-10 17:47:00,049 [main] INFO logger_File - user clicked on sign in option
+2023-04-10 17:47:00,228 [main] INFO logger_File - user entered email noor@gmail.com and password Noor@123
+2023-04-10 17:47:00,475 [main] INFO logger_File - user clicked on log in button
+2023-04-10 17:47:01,327 [main] INFO logger_File - user clicked on account option
+2023-04-10 17:47:01,566 [main] INFO logger_File - user clicked on account option
+2023-04-10 18:23:42,655 [main] INFO logger_File - User is on tek retail website
+2023-04-10 18:23:42,678 [main] INFO logger_File - Actual Title React App equals expected title React App
+2023-04-10 18:23:44,297 [main] INFO logger_File - user clicked on sign in option
+2023-04-10 18:23:44,835 [main] INFO logger_File - user entered email noor@gmail.com and password Noor@143
+2023-04-10 18:23:45,364 [main] INFO logger_File - user clicked on log in button
+2023-04-10 18:24:31,488 [main] INFO logger_File - User is on tek retail website
+2023-04-10 18:24:31,500 [main] INFO logger_File - Actual Title React App equals expected title React App
+2023-04-10 18:24:32,042 [main] INFO logger_File - user clicked on sign in option
+2023-04-10 18:24:32,464 [main] INFO logger_File - user entered email noor@gmail.com and password Noor@123
+2023-04-10 18:24:32,818 [main] INFO logger_File - user clicked on log in button
+2023-04-10 18:24:33,562 [main] INFO logger_File - user clicked on account option
+2023-04-10 18:24:33,954 [main] INFO logger_File - user clicked on account option

@@ -11,7 +11,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 		tags = "@test",
 		features = ("classpath:features"),
 		glue = "noor.tek.bdd",
-		dryRun = true,
+		dryRun = false,
 		plugin = {
 				"pretty",
                 "html:target/htmlReports/cucumber-pretty.html",
